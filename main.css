@@ -1,0 +1,37 @@
+.Form {
+  display: table;
+  width: 800px;
+  border: 2px solid black;
+  align-items: center;
+  background-color: rgb(180, 229, 250);
+  white-space: nowrap;
+  margin: auto;
+  font-size: 16px;
+  justify-content: center;
+}
+header {
+  background-color: cyan;
+  width: 290px;
+  border-radius: 10px;
+  border: solid 2px black;
+  box-shadow: 8px 8px 6px rgba(0, 0, 0, 0.29);
+  margin: auto;
+}
+.letter {
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+}
+h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+table {
+  margin-left: 50px;
+}
